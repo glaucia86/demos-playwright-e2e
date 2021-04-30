@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/glaucia86/demos-playwright-tdc/issues"
   },
-  "homepage": "https://github.com/glaucia86/demos-playwright-tdc#readme"
+  "homepage": "https://github.com/glaucia86/demos-playwright-tdc#readme",
+  "dependencies": {
+    "playwright": "^1.10.0"
+  }
 }
