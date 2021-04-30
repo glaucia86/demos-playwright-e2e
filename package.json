@@ -1,0 +1,27 @@
+{
+  "name": "demos-playwright-e2e",
+  "version": "1.0.0",
+  "description": "Demos relacionadas a palestra de Playwright - uma ferramenta de Testes Automatizados Open Source da Microsoft.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glaucia86/demos-playwright-tdc.git"
+  },
+  "keywords": [
+    "playwright",
+    "test",
+    "nodejs",
+    "javascript",
+    "automatation-test",
+    "e22-test"
+  ],
+  "author": "Glaucia Lemos <@glaucia_lemos86 - Twitter>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/demos-playwright-tdc/issues"
+  },
+  "homepage": "https://github.com/glaucia86/demos-playwright-tdc#readme"
+}
