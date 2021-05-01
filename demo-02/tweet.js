@@ -10,17 +10,18 @@
 const { chromium, webkit, devices } = require('playwright');
 
 (async () => {
-  const browser = await chromium.launch({ headless: false });
-  const page = await browser.newPage();
+    const browser = await chromium.launch({ headless: false });
+    const page = await browser.newPage();
 
-  await page.goto('https://twitter.com/login');
-  await page.fill('input[type="text"]', 'glaucia_lemos86');
-  await page.fill('input[type="password"]', 'Glau32759');
-  await page.click('div[data-testid="LoginForm_Login_Button"]')
+    await page.goto('https://twitter.com/login');
+    await page.fill('input[type="text"]', '<include-twitter-handler>');
+    await page.fill('input[type="password"]', '<include-password>');
+    await page.click('div[data-testid="LoginForm_Login_Button"]')
 
-  // Agora vamos fazer um tweet automatizado usando o Playwright:
+   // Agora vamos fazer um tweet automatizado usando o Playwright:
 
-  await page.fill('.public-DraftStyleDefault-ltr', 'Realizando um tweet automatizado, utilizando a ferramenta de Testes do Playwright - Demo em breve e tutorial sobre o assunto! 😎 (Link: https://playwright.dev/)');
-  await page.click('div[data-testid="tweetButtonInline"]');
+    await page.fill('.public-DraftStyleDefault-ltr', 'Realizando um tweet automatizado, utilizando a ferramenta de Testes do Playwright - Demo em breve e tutorial sobre o assunto! 😎 (Link: https://playwright.dev/)');
+    await page.click('div[data-testid="tweetButtonInline"]');
 
 })();
+
