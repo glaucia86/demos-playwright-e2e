@@ -7,11 +7,11 @@
  * Twitter: <@glaucia_lemos86>
  */
 
-const { firefox, chromium, webkit } = require('playwright');
+const { firefox, chromium, webkit, devices } = require('playwright');
 
 (async () => {
-  const browser = await firefox.launch({ headless: false });
-  const page = await browser.newPage();
+  const browser = await webkit.launch({ headless: false });
+  const page = await browser.newPage({ ...devices['iPhone 11 Pro'] });
 
   await page.goto('https://npmjs.com');
   await page.fill('[placeholder="Search packages"]', 'playwright');
