@@ -29,9 +29,3 @@ Caso tenham dúvidas aos códigos desenvolvidos durante as demos desenvolvidas, 
 
 **(documentação em desenvolvimento)**
 
-
-
-
-
-
-

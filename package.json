@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/glaucia86/demos-playwright-tdc#readme",
   "dependencies": {
-    "playwright": "^1.10.0"
+    "playwright": "^1.10.0",
+    "ts-node": "^9.1.1"
   }
 }
