@@ -17,5 +17,5 @@ Não fazer mais usando o Twitter, pois o Twitter, bloqueou o uso de bots e playw
 Usar na demo-02 os seguintes recursos:
 
 >  https://www.testim.io/playwright-recorder/
-> demo.testim.io
-> http://the-internet.herokuapp.com/
+>  http://demo.testim.io/
+>  http://the-internet.herokuapp.com/
