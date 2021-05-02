@@ -11,3 +11,11 @@
 4 - Criar, claro, o arquivo .gitignore
 
 5 - Demo 02 - Automatizar os posts do Twitter usando o Playwright:
+
+Não fazer mais usando o Twitter, pois o Twitter, bloqueou o uso de bots e playwright para evitar problemas na plataforma deles.
+
+Usar na demo-02 os seguintes recursos:
+
+>  https://www.testim.io/playwright-recorder/
+> demo.testim.io
+> http://the-internet.herokuapp.com/
