@@ -12,9 +12,9 @@
 
 5 - Demo 02 - Automatizar os posts do Twitter usando o Playwright:
 
-Não fazer mais usando o Twitter, pois o Twitter, bloqueou o uso de bots e playwright para evitar problemas na plataforma deles.
+Agora é só seguir o fluxo do código desenvolvido na demo-02
 
-Usar na demo-02 os seguintes recursos:
+Usar na demo-05 os seguintes recursos:
 
 >  https://www.testim.io/playwright-recorder/
 >  http://demo.testim.io/
