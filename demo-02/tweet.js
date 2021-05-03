@@ -11,7 +11,6 @@ const { chromium, webkit, devices } = require('playwright');
 
 (async () => {
   const browser = await chromium.launch({ headless: false });
-  // const page = await browser.newPage();
 
   const context = await browser.newContext({
     recordVideo: {
