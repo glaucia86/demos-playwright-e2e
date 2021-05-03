@@ -18,9 +18,10 @@ const { chromium, webkit, devices } = require('playwright');
     await page.fill('input[type="password"]', '<include-password>');
     await page.click('div[data-testid="LoginForm_Login_Button"]')
 
-   // Agora vamos fazer um tweet automatizado usando o Playwright:
+    // Agora vamos fazer um tweet automatizado usando o Playwright:
 
-    await page.fill('.public-DraftStyleDefault-ltr', 'Realizando um tweet automatizado, utilizando a ferramenta de Testes do Playwright - Demo em breve e tutorial sobre o assunto! 😎 (Link: https://playwright.dev/)');
+    await page.click('.public-DraftStyleDefault-ltr');
+    await page.keyboard.type('Realizando um tweet automatizado, utilizando a ferramenta de Testes do Playwright - Demo em breve e tutorial sobre o assunto! 😎 (Link: https://playwright.dev/)');
     await page.click('div[data-testid="tweetButtonInline"]');
 
 })();
