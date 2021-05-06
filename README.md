@@ -27,5 +27,4 @@ O **[Playwright](https://playwright.dev/)**. permite testes confiáveis de ponta
 
 Caso tenham dúvidas aos códigos desenvolvidos durante as demos desenvolvidas, sintam-se à vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/demos-playwright-e2e/issues)**. Assim que possível, estarei respondendo a todas as dúvidas que tiverem!
 
-**(documentação em desenvolvimento)**
 
