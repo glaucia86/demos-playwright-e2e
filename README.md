@@ -8,7 +8,7 @@ O **[Playwright](https://playwright.dev/)**. permite testes confiáveis de ponta
 ## 🚀 Recursos Utilizados 
 
 * **[Playwright](https://www.npmjs.com/package/playwright)**
-* **[Vs Code Extensions - Playwright Snippets](https://marketplace.visualstudio.com/items?itemName=nitayneeman.playwright-snippets)**
+* **[Vs Code Extensions - Playwright Snippets](https://marketplace.visualstudio.com/items?itemName=nitayneeman.playwright-snippets&WT.mc_id=javascript-0000-gllemos)**
 * **[TypeScript](https://www.typescriptlang.org/download)**
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-26994-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
