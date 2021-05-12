@@ -22,6 +22,8 @@ O **[Playwright](https://playwright.dev/)**. permite testes confiáveis de ponta
 - ✅ **[Compilando Códigos TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-compiling?WT.mc_id=javascript-26994-gllemos)**
 - ✅ **[Tutorial TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial?WT.mc_id=javascript-26994-gllemos)**
 - ✅ **[Curso Grátis de Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-26994-gllemos)**
+- ✅ **[Curso Grátis de TypeScript](https://docs.microsoft.com/learn/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-26994-gllemos)**
+
 
 ## ❓ Tenho Dúvidas... O que Faço?! 
 
