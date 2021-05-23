@@ -1,4 +1,4 @@
-# 🎭 Playwright [Demos] - Testes Inteligentes, Automatizados e Rápidos em Cross-Browser com Playwright!
+# 🎭 Playwright [Demos] - Palestra: Testes Inteligentes, Automatizados e Rápidos em Cross-Browser com Playwright!
 
 [![playwright.png](https://i.postimg.cc/DwFDkQQ3/playwright.png)](https://postimg.cc/F7WG0LnT)
 
