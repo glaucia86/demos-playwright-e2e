@@ -1,4 +1,4 @@
-# 🎭 Playwright [Demos] - Testes Inteligentes, Automatizados e Rápidos em Cross-Browser com Playwright!
+# 🎭 Playwright [Demos] - Palestra: Testes Inteligentes, Automatizados e Rápidos em Cross-Browser com Playwright!
 
 [![playwright.png](https://i.postimg.cc/DwFDkQQ3/playwright.png)](https://postimg.cc/F7WG0LnT)
 
@@ -8,7 +8,7 @@ O **[Playwright](https://playwright.dev/)**. permite testes confiáveis de ponta
 ## 🚀 Recursos Utilizados 
 
 * **[Playwright](https://www.npmjs.com/package/playwright)**
-* **[Vs Code Extensions - Playwright Snippets](https://marketplace.visualstudio.com/items?itemName=nitayneeman.playwright-snippets)**
+* **[Vs Code Extensions - Playwright Snippets](https://marketplace.visualstudio.com/items?itemName=nitayneeman.playwright-snippets&WT.mc_id=javascript-26994-gllemos)**
 * **[TypeScript](https://www.typescriptlang.org/download)**
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-26994-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
@@ -22,16 +22,9 @@ O **[Playwright](https://playwright.dev/)**. permite testes confiáveis de ponta
 - ✅ **[Compilando Códigos TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-compiling?WT.mc_id=javascript-26994-gllemos)**
 - ✅ **[Tutorial TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial?WT.mc_id=javascript-26994-gllemos)**
 - ✅ **[Curso Grátis de Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-26994-gllemos)**
+- ✅ **[Curso Grátis de TypeScript](https://docs.microsoft.com/learn/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-26994-gllemos)**
+
 
 ## ❓ Tenho Dúvidas... O que Faço?! 
 
 Caso tenham dúvidas aos códigos desenvolvidos durante as demos desenvolvidas, sintam-se à vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/demos-playwright-e2e/issues)**. Assim que possível, estarei respondendo a todas as dúvidas que tiverem!
-
-**(documentação em desenvolvimento)**
-
-
-
-
-
-
-
