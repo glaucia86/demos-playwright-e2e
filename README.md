@@ -2,8 +2,8 @@
 
 [![playwright.png](https://i.postimg.cc/DwFDkQQ3/playwright.png)](https://postimg.cc/F7WG0LnT)
 
-Repositório responsável pelas demos realizadas sobre o **[Playwright](https://playwright.dev/)**. Um framework de teste E2E, Open Source da Microsoft.
-O **[Playwright](https://playwright.dev/)**. permite testes confiáveis de ponta a ponta para aplicações Web Modernos!
+Repositório responsável pelas demos realizadas sobre o **[Playwright](https://playwright.dev/)**. Um framework de teste E2E e Open Source da Microsoft.
+O **[Playwright](https://playwright.dev/)** permite testes confiáveis de ponta a ponta para aplicações Web Modernos!
 
 ## 🚀 Recursos Utilizados 
 
