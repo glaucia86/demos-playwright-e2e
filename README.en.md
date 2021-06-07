@@ -23,6 +23,6 @@ Playwright Enables Reliable End-to-End Testing for Modern Web Applications!
 - ✅ **[Microsoft Learn Free Course - Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-30286-gllemos)**
 - ✅ **[Microsoft Learn Free Course - TypeScript](https://docs.microsoft.com/learn/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-30286-gllemos)**
 
-## ❓ I have doubts... What do I do?!
+## ❓ I have doubts... What should I do?!
 
 If you have any doubts/questions about the code samples that I developed during the talk, feel free to open an **[ISSUE HERE](https://github.com/glaucia86/demos-playwright-e2e/issues)**. As soon as possible, I will be answering any questions you may have!
