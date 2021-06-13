@@ -3,7 +3,11 @@
 [![playwright.png](https://i.postimg.cc/DwFDkQQ3/playwright.png)](https://postimg.cc/F7WG0LnT)
 
 Repositório responsável pelas demos realizadas sobre o **[Playwright](https://playwright.dev/)**. Um framework de teste E2E e Open Source da Microsoft.
+<<<<<<< HEAD
 O **[Playwright](https://playwright.dev/)** permite realizar testes confiáveis de ponta a ponta para aplicações Web Modernos!
+=======
+O **[Playwright](https://playwright.dev/)** permite testes confiáveis de ponta a ponta para aplicações Web Modernos!
+>>>>>>> ecc86026e1becef261eae8f796868f80d324121b
 
 ## 🚀 Recursos Utilizados 
 
@@ -23,6 +27,10 @@ O **[Playwright](https://playwright.dev/)** permite realizar testes confiáveis 
 - ✅ **[Tutorial TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial?WT.mc_id=javascript-26994-gllemos)**
 - ✅ **[Curso Grátis de Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-26994-gllemos)**
 - ✅ **[Curso Grátis de TypeScript](https://docs.microsoft.com/learn/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-26994-gllemos)**
+<<<<<<< HEAD
+=======
+
+>>>>>>> ecc86026e1becef261eae8f796868f80d324121b
 
 ## ❓ Tenho Dúvidas... O que Faço?! 
 
