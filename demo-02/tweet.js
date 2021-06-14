@@ -15,16 +15,16 @@ const { chromium, webkit, devices } = require("playwright");
     recordVideo: {
       dir: "./video-recording",
       size: {
-        width: 1024,
-        height: 786,
+        width: 1920,
+        height: 1080,
       },
     },
   });
   const page = await context.newPage();
 
   await page.goto("https://twitter.com/login");
-  await page.fill('input[type="text"]', "<include-your-twitter-handler>");
-  await page.fill('input[type="password"]', "<include-your-password>");
+  await page.fill('input[type="text"]', "");
+  await page.fill('input[type="password"]', "");
   await page.click('div[data-testid="LoginForm_Login_Button"]');
 
   // Agora vamos fazer um tweet automatizado usando o Playwright:
