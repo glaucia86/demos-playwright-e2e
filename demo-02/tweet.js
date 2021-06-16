@@ -1,7 +1,7 @@
 /**
  * Arquivo: demo-02/tweet.js
  * Data: 14/06/2021
- * Descrição: arquivo responsável por realizar a demo automatizando tweets usando o Playwright
+ * Descrição: arquivo responsável por automatizar tweets usando o Playwright
  * Autora: Glaucia Lemos
  * Twitter: <@glaucia_lemos86>
  */
@@ -9,7 +9,7 @@
 const { chromium, webkit, devices } = require("playwright");
 
 (async () => {
-  const browser = await chromium.launch({ headless: false });
+  const browser = await webkit.launch({ headless: false });
 
   const context = await browser.newContext({
     viewport: {
@@ -36,7 +36,7 @@ const { chromium, webkit, devices } = require("playwright");
 
   await page.click(".public-DraftStyleDefault-ltr");
   await page.keyboard.type(
-    "Tweet automatizado utilizando a ferramenta de Testes do Playwright - Mais informações: https://github.com/glaucia86/demos-playwright-e2e 😎"
+    "Automated Tweet using Playwright - More Info: https://github.com/glaucia86/demos-playwright-e2e 😎"
   );
   await page.click('div[data-testid="tweetButtonInline"]');
 })();
