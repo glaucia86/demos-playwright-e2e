@@ -14,6 +14,16 @@ Playwright Enables Reliable End-to-End Testing for Modern Web Applications!
 - **[Node.js](https://nodejs.org/en/)**
 - **[ts-node](https://www.npmjs.com/package/ts-node)**
 
+## 💻 Demos
+
+| Code Sample | Description | Language |
+|---|---|---|
+| **[demo-01](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-01/scripts.js)** | Demonstration teaching how to get started with Playwright with Node.Js| Node.Js |
+| **[demo-02](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-02/tweet.js)** | Demonstration teaching how to automate tweets using Playwright | Node.Js |
+| **[demo-03](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-03/index.ts)** | Demonstration teaching how to get started with Playwright with TypeScript | TypeScript |
+| **[demo-04](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-04/record.js)** | Demonstration teaching how to perform automated tests with Playwright and record in video the tests. | Node.Js |
+| **[demo-05](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-05/linkedin.js)** | Demonstration teaching how to automate posts on Linkedin using Playwright | Node.Js |
+
 ## ❗️ Links & Important Resources
 
 - ✅ **[Oficial Documentation - Playwright](https://playwright.dev/docs/intro)**
