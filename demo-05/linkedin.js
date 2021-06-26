@@ -30,7 +30,7 @@ const { chromium, webkit, devices } = require("playwright");
   await page.fill('input[type="password"]', "");
   await page.click('button[data-litms-control-urn="login-submit"]');
 
-  // Agora vamos fazer um postagem automatizada no Linkedin usando o Playwright:
+  //TODO: Agora vamos fazer um postagem automatizada no Linkedin usando o Playwright:
 
   // await browser.close();
 })();
