@@ -15,6 +15,19 @@ O **[Playwright](https://playwright.dev/)** permite testes confiáveis de ponta 
 | **[demo-04](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-04/record.js)** | Demos responsável por realizar a demo gravando as telas usando com o Playwright | Node.Js |
 | **[demo-05](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-05/linkedin.js)** | Demo responsável por realizar a demo automatizando posts no Linkedin usando o Playwright | Node.Js |
 
+## 🔥 Executando as Demos!
+
+Basta seguir os comando abaixo:
+
+```bash
+> git https://github.com/glaucia86/demos-playwright-e2e.git
+> cd demos-playwright-e2e/
+> npm install
+> node <nome-do-arquivo>
+```
+
+E, não se esqueça de incluir seus dados pessoais de senha e usuário em algumas demos de exemplo! Dúvidas, podem entrar em contato comigo!
+
 ## 🚀 Recursos Utilizados
 
 * **[Playwright](https://www.npmjs.com/package/playwright)**
