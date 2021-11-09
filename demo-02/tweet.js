@@ -29,6 +29,7 @@ const { chromium, webkit, devices } = require("playwright");
 
   await page.goto("https://twitter.com/login");
   await page.fill('input[type="text"]', "<include-your-twitter-handle-here>");
+  await page.click("text=Avançar");
   await page.fill('input[type="password"]', "<include-your-password-here>");
   await page.click('div[data-testid="LoginForm_Login_Button"]');
 
