@@ -24,6 +24,19 @@ Playwright Enables Reliable End-to-End Testing for Modern Web Applications!
 | **[demo-04](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-04/record.js)** | Demonstration teaching how to perform automated tests with Playwright and record in video the tests. | Node.Js |
 | **[demo-05](https://github.com/glaucia86/demos-playwright-e2e/blob/main/demo-05/linkedin.js)** | Demonstration teaching how to automate posts on Linkedin using Playwright | Node.Js |
 
+## 🔥 Getting Started
+
+Just follow the steps bellow:
+
+```bash
+> git https://github.com/glaucia86/demos-playwright-e2e.git
+> cd demos-playwright-e2e/
+> npm install
+> node <file-name>
+```
+
+Don't forget to include your personal informations to test some demos. Such as: the Twitter or Linkedin application! 
+
 ## ❗️ Links & Important Resources
 
 - ✅ **[Oficial Documentation - Playwright](https://playwright.dev/docs/intro)**
